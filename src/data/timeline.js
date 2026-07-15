@@ -4,7 +4,7 @@ export const timelineItems = [
     date: 'Aug 2023',
     title: 'Started B.Tech at VIT Chennai',
     subtitle: 'Computer Science — AI & ML',
-    detail: 'Joined VIT Chennai pursuing B.Tech in CSE with AI/ML specialization. GPA: 8.68',
+    detail: 'Joined VIT Chennai pursuing B.Tech in CSE with AI/ML specialization. CGPA: 8.62',
   },
   {
     id: 'ibm',

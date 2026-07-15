@@ -114,7 +114,7 @@ export default function Hero() {
             marginBottom: '2.5rem',
           }}
         >
-          B.Tech CSE (AI/ML) at VIT Chennai · GPA 8.68 · Interned building deployed voice AI
+          B.Tech CSE (AI/ML) at VIT Chennai · GPA 8.62 · Interned building deployed voice AI
           and ML pipelines at a logistics startup. 5 projects across deep learning,
           automation, and full-stack.
         </motion.p>
