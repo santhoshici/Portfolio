@@ -1,63 +1,10 @@
-# Santhosh Kumar — Portfolio
+# Hi, I'm Santhosh Kumar 👋
 
-This repository contains the source code for my personal portfolio website, built to showcase my projects in AI, ML, and software engineering.
+Welcome to my portfolio repository! I'm an AI & ML Engineer and Full-Stack Developer currently pursuing my B.Tech in CSE (AI/ML) at VIT Chennai. I specialize in building AI systems that go beyond Jupyter notebooks and transition into real-world, deployed applications. 
 
-The portfolio features a clean, responsive, and performance-optimized design tailored to highlight deployed automation systems, deep learning models, and full-stack applications.
+From developing a production-ready AI voice agent that actively handles logistics outreach calls, to engineering machine learning pipelines that accurately predict route pricing, my focus is on solving complex problems with scalable, automated solutions. I am deeply passionate about deep learning, workflow automation, and creating seamless full-stack applications that deliver tangible business value.
 
-## 🚀 Tech Stack
-
-- **Framework:** React 19 + Vite
-- **Styling:** Tailwind CSS v4
-- **Animations:** Framer Motion
-- **Icons:** Lucide React
-- **Deployment:** Vercel
-
-## 📂 Project Structure
-
-```text
-src/
-├── components/     # Reusable UI components (Navbar, Footer, SectionTitles)
-├── data/           # Content data (Projects, Skills, Timeline)
-├── sections/       # Main layout sections (Hero, About, Projects, etc.)
-└── styles/         # Global design tokens and Tailwind configuration
-```
-
-## 💻 Running Locally
-
-To run this project on your local machine:
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/santhoshici/santhosh-portfolio.git
-   cd santhosh-portfolio
-   ```
-
-2. **Install dependencies**
-   ```bash
-   npm install
-   ```
-
-3. **Start the development server**
-   ```bash
-   npm run dev
-   ```
-   *The application will be available at `http://localhost:5173`.*
-
-## 🛠️ Building for Production
-
-To create an optimized production build:
-
-```bash
-npm run build
-```
-This command bundles the React application into the `dist/` folder, ready for deployment.
-
-## 🔗 Deployment
-
-This application is configured for seamless deployment on **Vercel**. When connected to a GitHub repository, Vercel will automatically build and deploy the application on every push to the `main` branch. 
-
-* **Build Command:** `npm run build`
-* **Output Directory:** `dist`
+---
 
 ## 📬 Contact
 
