@@ -1,16 +1,69 @@
-# React + Vite
+# Santhosh Kumar — Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+This repository contains the source code for my personal portfolio website, built to showcase my projects in AI, ML, and software engineering.
 
-Currently, two official plugins are available:
+The portfolio features a clean, responsive, and performance-optimized design tailored to highlight deployed automation systems, deep learning models, and full-stack applications.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Tech Stack
 
-## React Compiler
+- **Framework:** React 19 + Vite
+- **Styling:** Tailwind CSS v4
+- **Animations:** Framer Motion
+- **Icons:** Lucide React
+- **Deployment:** Vercel
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📂 Project Structure
 
-## Expanding the Oxlint configuration
+```text
+src/
+├── components/     # Reusable UI components (Navbar, Footer, SectionTitles)
+├── data/           # Content data (Projects, Skills, Timeline)
+├── sections/       # Main layout sections (Hero, About, Projects, etc.)
+└── styles/         # Global design tokens and Tailwind configuration
+```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## 💻 Running Locally
+
+To run this project on your local machine:
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/santhoshici/santhosh-portfolio.git
+   cd santhosh-portfolio
+   ```
+
+2. **Install dependencies**
+   ```bash
+   npm install
+   ```
+
+3. **Start the development server**
+   ```bash
+   npm run dev
+   ```
+   *The application will be available at `http://localhost:5173`.*
+
+## 🛠️ Building for Production
+
+To create an optimized production build:
+
+```bash
+npm run build
+```
+This command bundles the React application into the `dist/` folder, ready for deployment.
+
+## 🔗 Deployment
+
+This application is configured for seamless deployment on **Vercel**. When connected to a GitHub repository, Vercel will automatically build and deploy the application on every push to the `main` branch. 
+
+* **Build Command:** `npm run build`
+* **Output Directory:** `dist`
+
+## 📬 Contact
+
+- **Email:** santhosh05042006@gmail.com
+- **LinkedIn:** [linkedin.com/in/santhoshkumar546](https://linkedin.com/in/santhoshkumar546)
+- **GitHub:** [github.com/santhoshici](https://github.com/santhoshici)
+
+---
+*Designed & Developed by Santhosh Kumar.*
