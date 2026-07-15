@@ -148,7 +148,7 @@ export default function About() {
                 color: 'var(--color-text-secondary)',
                 margin: 0,
               }}>
-                I'm pursuing B.Tech in CSE with an AI/ML specialization at VIT Chennai (GPA: 8.68).
+                I'm pursuing B.Tech in CSE with an AI/ML specialization at VIT Chennai (GPA: 8.62).
                 My internship at DropTruck involved building and shipping a production AI voice agent
                 using Google Gemini Live and Exotel — a system that handles about 30% of their
                 outbound logistics calls.
